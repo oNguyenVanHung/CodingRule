@@ -4,7 +4,7 @@
 
 - Sử dụng tài khoản mail framgia để tạo tài khoản github
 - Đặt tên account theo dạng oNguyenVanA
-- Cài đặt public email
+- Cài đặt public email là email của Framgia
 - Cài đặt company là @framgia
 
 ## Fork Repository
